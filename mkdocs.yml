@@ -1,6 +1,6 @@
-site_name: your_site_name
+site_name: fedderw_project_portfolio
 site_description: A cool description
-site_url: https://change_me.io/
+site_url: https://fedderw.github.io/project-portfolio/
 
 theme:
     name: 'material'
